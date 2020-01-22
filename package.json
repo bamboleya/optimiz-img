@@ -2,7 +2,7 @@
   "name": "optimiz-img",
   "version": "1.0.0",
   "description": "Recurse optimization jpg and png images (async)",
-  "main": "optimize_jpeg+png.js",
+  "main": "optimiz-img.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bamboleya/optimiz-img.git"
